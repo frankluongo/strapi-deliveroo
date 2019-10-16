@@ -1,0 +1,12 @@
+{
+  "name": "strapi-deliveroo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/frankluongo/strapi-deliveroo.git",
+  "author": "Frank Luongo <frank@frankluongo.com>",
+  "license": "MIT",
+  "scripts": {
+    "backend": "cd backend && strapi develop",
+    "frontend": "cd frontend && yarn dev"
+  }
+}
